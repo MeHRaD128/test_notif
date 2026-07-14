@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999170103500",
+    "project_id": "moshir-65c13",
+    "storage_bucket": "moshir-65c13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999170103500:android:ec536c60bd141f7d364a69",
+        "android_client_info": {
+          "package_name": "com.example.moshir_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ghJVCpm1rU8nEuIKENTz8CIGDWsdzWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999170103500:android:0928aca74e417b4e364a69",
+        "android_client_info": {
+          "package_name": "com.example.test_notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ghJVCpm1rU8nEuIKENTz8CIGDWsdzWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
